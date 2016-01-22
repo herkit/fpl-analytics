@@ -4,8 +4,11 @@
   "description": "Fantasy Premier League analyzer",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.67.0"
+  }
 }
