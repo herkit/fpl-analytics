@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "q": "^1.4.1",
     "request": "^2.67.0"
   }
 }
