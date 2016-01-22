@@ -1,0 +1,11 @@
+{
+  "name": "fpl-analyzer",
+  "version": "1.0.0",
+  "description": "Fantasy Premier League analyzer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
