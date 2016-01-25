@@ -10,7 +10,6 @@ var retrieveManyPlayers = function(token) {
   return Q.all(promises);
 }
 
-
 auth.authenticate(process.env.FPL_USERNAME, process.env.FPL_PASSWORD)
 .then(retrieveManyPlayers)
 .then(console.log)
